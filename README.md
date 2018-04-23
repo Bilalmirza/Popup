@@ -41,3 +41,4 @@ this->addChild(popup);
 
 To create your own popup inherit from class PopupDelegate
 
+Resources: Funtique by Vasili Tkach
