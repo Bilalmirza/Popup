@@ -8,7 +8,7 @@ Pressing ok button will fire an event.
 
 Usage:
 
-```
+```c++
 //Confimation:
 
 UICustom::Popup *popup = UICustom::Popup::createAsConfirmDialogue("Test 1", "This is a confirmation Popup", [=](){
